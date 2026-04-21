@@ -1,55 +1,56 @@
 # Hi there 👋, I'm Jose Manuel Ríos Zorrilla
 
-**Mechanical Engineer transitioning to Data Science | 10+ Years of Engineering & Analytics Experience**
+**Senior Mechanical Design Leader | Transitioning to Data Science & Advanced Analytics**
 
-I am a seasoned professional with over a decade of experience in Mechanical Engineering, now pivoting into Data Science. My background allows me to combine rigorous engineering logic with advanced statistical modeling and Machine Learning to solve high-impact business and technical challenges.
-
----
-
-### 🚀 Professional Summary
-
-* 🛠️ **Engineering Background:** 10 years of experience as a Mechanical Engineer, specializing in industrial design and project management.
-* 🎓 **Education:** * MSc in Data Science, Big Data & Business Analytics - Universidad Complutense de Madrid (2025–2026).
-    * Bachelor's in Mechanical Engineering - Universidad Politécnica de Jaén.
-* 💼 **Experience Transition:** * Currently working at **Siemens Gamesa** as a Mechanical Engineer while exploring data-driven optimizations.
-    * Experience as a **Junior Data Analyst at EY**, focusing on data processing and visualization.
-    * Innovation Intern at **Prosegur**, working on emerging technologies.
-* 🔭 **Featured Project:** Developed a Machine Learning triage tool to predict traffic accident severity, applying engineering-level precision to predictive modeling.
-* 🌱 **Goal:** To leverage my extensive technical background to lead data-centric projects in industrial, energy, or consulting sectors.
+I am a Mechanical Engineer with over 10 years of experience leading international projects in the automotive industry. After completing my MSc in Data Science, I am pivoting my career towards advanced analytics, combining a decade of leadership and technical rigor with the power of Big Data and AI.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🚀 Professional Profile
 
-**Languages & Databases**
+* 🛠️ **Engineering Expertise:** 10+ years at **Valeo Lighting** and **Tuccitec**, leading mechanical design teams and managing complex international projects from conception to delivery.
+* 🎓 **Education:** * **MSc in Data Science, Big Data & Business Analytics** - Universidad Complutense de Madrid (2026).
+    * **B.S. in Mechanical Engineering** - Universidad de Jaén.
+* 🔭 **Capstone Project:** *"Traffic Accident Severity Prediction"* — A Machine Learning-based decision-support tool designed to optimize emergency resource allocation.
+* 💡 **Hybrid Value:** I bridge the gap between industrial engineering precision and data-driven insights, specializing in complex problem-solving and agile methodologies.
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+**Data Science & Analytics**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Big_Data-000000?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-**Machine Learning & Data Science**
+**Engineering & Design**
 <p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logo=catboost&logoColor=black" />
-  <img src="https://img.shields.io/badge/SHAP-orange?style=for-the-badge" />
-</p>
-
-**Engineering & Others**
-<p>
-  <img src="https://img.shields.io/badge/MATLAB-ED6B0D?style=for-the-badge&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/CATIA_V5-005682?style=for-the-badge&logo=dassaultsystemes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Project_Management-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agile_Problem_Solving-FF9800?style=for-the-badge" />
 </p>
 
 ---
 
-### 🏆 Featured Projects
+### 🏆 Featured Project
 
 #### [Traffic Accident Severity Prediction](https://github.com/josemrz1987/traffic-accident-severity-prediction)
-A decision-support tool for emergency triage.
-* **Objective:** Predict if a traffic accident will result in physical injuries vs. material damage only.
-* **Key Tech:** `Python`, `CatBoost`, `SHAP`, `Streamlit`.
-* **Highlights:** Application of strict validation protocols to ensure model reliability in real-world scenarios.
+Development of a predictive model to classify accident severity at the time of reporting.
+* **Impact:** Provides real-time support for emergency triage.
+* **Methodology:** Implemented advanced ML techniques (CatBoost/XGBoost) with a focus on model interpretability (SHAP).
+
+---
+
+### 💼 Professional Journey
+
+* **Mechanical Design Leader | Valeo Lighting** (2016 – Present)
+    * Leading international CAD teams and managing integral mechanical design for exterior lighting projects.
+* **Mechanical Design Leader | Tuccitec** (2016)
+* **Mechanical Designer | Tuccitec** (2014 – 2016)
+    * Advanced 3D/2D modeling and technical coordination for automotive Tier-1 projects.
 
 ---
 
@@ -62,4 +63,4 @@ A decision-support tool for emergency triage.
 </p>
 
 ---
-*⭐ "Bridging the gap between traditional engineering and modern data science."*
+*⭐ "Combining engineering rigor with the future of Big Data."*
