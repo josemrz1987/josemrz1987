@@ -10,8 +10,7 @@ I am a seasoned professional with over a decade of experience in Mechanical Engi
 
 * 🛠️ **Engineering Background:** 10 years of experience as a Mechanical Engineer, specializing in industrial design and project management.
 * 🎓 **Education:** * MSc in Data Science, Big Data & Business Analytics - Universidad Complutense de Madrid (2025–2026).
-    * Master's in Industrial Engineering - Universidad Politécnica de Madrid.
-    * Bachelor's in Mechanical Engineering - Universidad Politécnica de Madrid.
+    * Bachelor's in Mechanical Engineering - Universidad Politécnica de Jaén.
 * 💼 **Experience Transition:** * Currently working at **Siemens Gamesa** as a Mechanical Engineer while exploring data-driven optimizations.
     * Experience as a **Junior Data Analyst at EY**, focusing on data processing and visualization.
     * Innovation Intern at **Prosegur**, working on emerging technologies.
