@@ -45,7 +45,7 @@ I am a results-driven Data Scientist passionate about turning complex data into 
 
 ### 🏆 Featured Projects
 
-#### [Traffic Accident Severity Prediction](YOUR_REPO_LINK_HERE)
+#### [Traffic Accident Severity Prediction](https://github.com/josemrz1987/traffic-accident-severity-prediction)
 A decision-support tool for emergency triage.
 * **Objective:** Predict if a traffic accident will result in physical injuries vs. material damage only, using early-report information to prioritize ambulance dispatch.
 * **Key Tech:** `Python`, `CatBoost`, `SHAP`, `Streamlit`.
