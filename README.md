@@ -8,7 +8,7 @@ I am a Mechanical Engineer with over 10 years of experience leading internationa
 
 ### 🚀 Professional Profile
 
-* 🛠️ **Engineering Expertise:** 10+ years at **Valeo Lighting** and **Tuccitec**, leading mechanical design teams and managing complex international projects from conception to delivery.
+* 🛠️ **Engineering Expertise:** 10+ years at **Valeo Lighting**, leading mechanical design teams and managing complex international projects from conception to delivery.
 * 🎓 **Education:** * **MSc in Data Science, Big Data & Business Analytics** - Universidad Complutense de Madrid (2026).
     * **B.S. in Mechanical Engineering** - Universidad de Jaén.
 * 🔭 **Capstone Project:** *"Traffic Accident Severity Prediction"* — A Machine Learning-based decision-support tool designed to optimize emergency resource allocation.
