@@ -2,8 +2,7 @@
 
 **Senior Mechanical Design Leader | Transitioning to Data Science & Advanced Analytics**
 
-I am a Mechanical Engineer with over 10 years of experience leading international projects in the automotive industry. After completing my MSc in Data Science, I am pivoting my career towards advanced analytics, combining a decade of leadership and technical rigor with the power of Big Data and AI.
-
+I am a Mechanical Engineer with 10+ years of experience leading international design teams in the automotive industry, recently completed an MSc in Data Science at Universidad Complutense de Madrid. Interested in the intersection of engineering and data-driven decision making through Big Data and AI.
 ---
 
 ### 🚀 Professional Profile
