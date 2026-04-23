@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Jose Manuel Ríos Zorrilla
 
-**Senior Mechanical Design Leader | Transitioning to Data Science & Advanced Analytics**
+**Senior Mechanical Design Leader | Data Science & Advanced Analytics**
 
 I am a Mechanical Engineer with 10+ years of experience leading international design teams in the automotive industry, recently completed an MSc in Data Science at Universidad Complutense de Madrid. Interested in the intersection of engineering and data-driven decision making through Big Data and AI.
 ---
